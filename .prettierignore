@@ -1,0 +1,11 @@
+*.env
+.env
+.env*
+
+/.vscode
+/node_modules
+./dist
+
+# // .prettierignore is used to specify files and directories that should be ignored by Prettier.
+# // This file is typically used to prevent formatting of files that are not relevant to the codebase
+# // prettierrc is used to configure Prettier, a code formatter. The options specified in this file control how the code is formatted, such as using single quotes, adding spaces between brackets, setting the tab width, and whether to include semicolons at the end of statements. The `trailingComma` option specifies where to add trailing commas in objects and arrays.
